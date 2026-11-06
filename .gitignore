@@ -1,0 +1,23 @@
+# --- Handoff document (session notes, not for the repo) ---
+handoff.md
+HANDOFF.md
+handoff*.md
+HANDOFF*.md
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor cruft ---
+.obsidian/
+.vscode/
+.idea/
+
+# --- Working material kept locally, not published ---
+docs/
+images/
+photos/
+rsgb/
+sidebar-additional-builds/
+*.canvas
