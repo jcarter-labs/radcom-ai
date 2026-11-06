@@ -10,6 +10,16 @@ The [masterplan generator](masterplan/masterplan-generator.md) is the template t
 
 ![The masterplan generator template: 20 prompts arranged under four sections](masterplan/masterplan-generator.png)
 
+### How to use it
+
+- Create a Projects directory if you don't have one.
+- Create a folder in that directory for your new app idea.
+- Download `masterplan-generator.md` into that folder.
+- Copy a text description of your idea and a visual representation or screenshot of the UI into the folder.
+- Run Claude Code from that directory.
+- PASTE: `Read and review the masterplan.md and use it to customize the masterplan-generator.md for myapp and screenshot.`
+- Read and follow all the Ground Rules, and then execute the prompts in the masterplan.
+
 ## About the article
 
 Operating remotely from the Mojave Desert with a KX3 and no panadapter, I wanted a synthetic panadapter, a display showing locally heard RBN and POTA spots on a single frequency scale, and I couldn't find an existing program that did both. Asking an AI chat window to build one gets you started quickly, but the result rests on silent assumptions and can't be reproduced a few months later. This article shows a more dependable method, borrowed from the workbench: write a masterplan, which is the software equivalent of a schematic, before any code is built. I begin with a short guide to setting up Claude Code and GitHub for readers who have never used a terminal, then follow the masterplan's four parts (Ground Rules, Project Brief, Architecture and Task Plan) from a one-paragraph idea and a single screenshot to a working program. The masterplan, not the AI's output, is what you keep and share.

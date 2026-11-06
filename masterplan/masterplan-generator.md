@@ -1,4 +1,4 @@
-# Masterplan Core
+# Masterplan
 
 Four sections of the Masterplan Generator, in order: Ground Rules, Project Brief, Architecture, Task Plan.
 
