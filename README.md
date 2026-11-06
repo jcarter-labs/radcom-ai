@@ -6,7 +6,7 @@ Based on the 2026 RSGB Convention talk "The Spec Is the New Schematic" (slides a
 
 ## Masterplan generator
 
-The [masterplan generator](masterplan/masterplan-generator.md) is the template the article is about: 20 prompts in four sections (Ground Rules, Project Brief, Architecture and Task Plan). You answer a few questions about your app, paste the prompts into Claude Code, and the agent builds a customized `masterplan.md` that it then uses to build your app.
+The [masterplan generator](masterplan/masterplan-generator.md) is the template the article is about: 20 prompts in four sections (Ground Rules, Project Brief, Architecture and Task Plan). You answer a few questions about your app, paste the prompts into Claude Code, and the agent builds a customized `masterplan.md` that it then uses to build your app. The [masterplan expanded](masterplan/masterplan-expanded.md) is the masterplan-generator with additional commentary with getting started information and instructions on how to wrap up the build.
 
 ![The masterplan generator template: 20 prompts arranged under four sections](masterplan/masterplan-generator.png)
 
