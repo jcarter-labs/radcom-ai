@@ -31,7 +31,9 @@ The [masterplan generator](masterplan/masterplan-generator.md) is the template t
 
 ## About the article
 
-Operating remotely from the Mojave Desert with a KX3 and no panadapter, I wanted a synthetic panadapter, a display showing locally heard RBN and POTA spots on a single frequency scale, and I couldn't find an existing program that did both. Asking an AI chat window to build one gets you started quickly, but the result rests on silent assumptions and can't be reproduced a few months later. This article shows a more dependable method, borrowed from the workbench: write a masterplan, which is the software equivalent of a schematic, before any code is built. I begin with a short guide to setting up Claude Code and GitHub for readers who have never used a terminal, then follow the masterplan's four parts (Ground Rules, Project Brief, Architecture and Task Plan) from a one-paragraph idea and a single screenshot to a working program. The masterplan, not the AI's output, is what you keep and share.
+Operating remotely from the Mojave Desert with a KX3 and no panadapter, I wanted a synthetic panadapter, a display showing locally heard RBN and POTA spots on a single frequency scale, and I couldn't find an existing program that did both. Asking an AI chat window to build one gets you started quickly, but the result rests on silent assumptions and can't be reproduced a few months later.
+
+This article shows a more dependable method, borrowed from the workbench: write a masterplan, which is the software equivalent of a schematic, before any code is built. I begin with a short guide to setting up Claude Code and GitHub for readers who have never used a terminal, then follow the masterplan's four parts (Ground Rules, Project Brief, Architecture and Task Plan) from a one-paragraph idea and a single screenshot to a working program. The masterplan, not the AI's output, is what you keep and share.
 
 ## Figures
 
