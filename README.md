@@ -17,8 +17,8 @@ The [masterplan generator](masterplan/masterplan-generator.md) is the template t
 - Download `masterplan-generator.md` into that folder.
 - Copy a text description of your idea and a visual representation or screenshot of the UI into the folder.
 - Run Claude Code from that directory.
-- PASTE: `Read and review the masterplan.md and use it to customize the masterplan-generator.md for myapp and screenshot.`
-- Read and follow all the Ground Rules, and then execute the prompts in the masterplan.
+- *PASTE: Read and review the masterplan-generator.md and use it to customize a masterplan.md for myapp and screenshot.*
+- *PASTE: Read and follow all the Ground Rules, and then execute the prompts in the masterplan.*
 
 ## About the article
 
